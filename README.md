@@ -30,7 +30,7 @@ This JavaScript program helps you calculate the ingredients required to make a s
 4. Enter the number of chai cups when prompted.
 5. See the breakdown of required ingredients.
 
-## 🛠 Example Output
+## Example Output
 
 ``` Welcome to the Chai Calculator!
 Please enter the number of numberOfCups:
@@ -40,3 +40,15 @@ Please enter the number of numberOfCups:
  70 tsp of tea leaves
  140 tsp of sugar
  Enjoy your cups of Tea! ```
+
+
+# 2 Boda Boda Ride Fare Estimator
+
+This JavaScript program helps you calculate the fare charged ona boda ride. Simply input the distance to travel in kms, and the calculator will tell you how much total fare you will pay.
+
+## Features
+
+- Prompts the user to enter the distance they want to travel.
+- Calculates and displays the required fare and the distance.
+- Handles invalid inputs (non-numeric or non-positive values).
+- Friendly and easy-to-read output.
